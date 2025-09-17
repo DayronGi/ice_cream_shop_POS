@@ -31,10 +31,9 @@ De esta forma, el flujo de trabajo es mucho más simple y rápido para el negoci
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Laravel** (Framework backend y migraciones)  
+- **Laravel** (Framework backend)  
 - **MySQL/MariaDB** (Base de datos)  
 - **Blade / API** (Interfaz y lógica de comunicación)  
-- **TailwindCSS** *(opcional, si se usa para el frontend)*  
 
 ---
 
@@ -43,3 +42,7 @@ De esta forma, el flujo de trabajo es mucho más simple y rápido para el negoci
 - **products**: Contiene la información de cada producto.  
 - **sales**: Registra las ventas calculadas automáticamente al final de la jornada.  
 - **faults**: Permite registrar fallos o pérdidas de inventario.  
+
+---
+
+Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
